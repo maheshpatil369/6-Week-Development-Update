@@ -68,13 +68,13 @@ html,body{
 #content{
     height: calc(100% - 150px);
     width: 100%;
-    /* background-color: antiquewhite; */
+  
 
 }
 #text-content{
     height: 45%;
     width: 100%;
-    /* background-color: aqua; */
+    
     display: flex;
     overflow-x: auto;
     flex-wrap: nowrap;
@@ -91,8 +91,7 @@ html,body{
     flex-shrink: 0;
     height: 100%;
     width: 60%;
-    /* background-color: red; */
-    /* border: 2px solid black */
+   
     display: flex;
     align-items: center;
     justify-content: center;
