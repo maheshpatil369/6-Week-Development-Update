@@ -11,13 +11,12 @@ html,body{
 #main {
     height: 100%;
     width: 100%;
-    /* background-color: red; */
+ 
 }
 #nav{
-    /* background-color: red; */
     height: 80px;
     width: 100%;
-    /* background-color: red; */
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -51,10 +50,10 @@ html,body{
     color: rgb(86, 105, 164);
 }
 #nav2{
-    /* background-color: red; */
+   
     height: 70px;
     width: 100%;
-    /* background-color: red; */
+   
     display: flex;
     align-items: center;
     padding: 0 50px;
