@@ -99,5 +99,7 @@ html,body{
     width: 100%;
     background-color: red;
 }
-
+#bottom h1{
+    color: white;
+}
 
