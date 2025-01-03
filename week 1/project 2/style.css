@@ -40,7 +40,6 @@ html,body{
 }
 #nav-part2{
     width: 30%;
-    /* background-color: lightsalmon; */
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -58,7 +57,6 @@ html,body{
 #content{
     height: calc(100% - 120px);
     width: 100%;
-    /* background-color: blue; */
     padding-top: 95px;
 
 }
