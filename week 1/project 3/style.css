@@ -57,8 +57,6 @@
       border-radius: 0;
     }
   }
-  
-  
   .videoHeader {
     position: absolute;
     width: 100%;
@@ -98,26 +96,22 @@
     border: none;
     padding: 5px;
   }
-  
   .videoFooter__ticker {
     width: 60%;
     margin-left: 30px;
     margin-bottom: 20px;
     height: fit-content;
   }
-  
   .videoFooter__ticker marquee {
     font-size: 12px;
     padding-top: 7px;
     color: white;
   }
-  
   .videoFooter__ticker .material-icons {
     position: absolute;
     left: 5px;
     color: white;
   }
-  
   .videoFooter__actions {
     display: flex;
     position: absolute;
@@ -125,7 +119,6 @@
     justify-content: space-between;
     color: white;
   }
-  
   .videoFooter__actionsLeft .material-icons {
     padding: 0 7px;
     font-size: 1.6em;
