@@ -130,21 +130,17 @@
     padding: 0 7px;
     font-size: 1.6em;
   }
-  
   .videoFooter__actionsRight .material-icons {
     font-size: 25px;
   }
-  
   .videoFooter__actionsRight {
     display: flex;
   }
-  
   .videoFooter__stat {
     display: flex;
     align-items: center;
     margin-right: 10px;
   }
-  
   .videoFooter__stat p {
     margin-left: 4px;
   }
