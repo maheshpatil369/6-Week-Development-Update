@@ -9,7 +9,7 @@
   
   body {
     color: rgb(224, 224, 224);
-    background-color: rgb(67, 28, 28);
+    background-color: rgb(0, 0, 0);
     height: 100vh;
     display: grid;
     place-items: center;
