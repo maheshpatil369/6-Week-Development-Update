@@ -25,16 +25,13 @@
     scroll-snap-type: y mandatory;
     border-radius: 20px;
   }
-  
   .app__videos::-webkit-scrollbar {
     display: none;
   }
-  
   .app__videos {
     -ms-overflow-style: none;
     scrollbar-width: none;
-  }
-  
+  } 
   .video {
     position: relative;
     height: 100%;
