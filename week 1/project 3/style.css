@@ -107,7 +107,7 @@
   .videoFooter__ticker .material-icons {
     position: absolute;
     left: 5px;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   .videoFooter__actions {
     display: flex;
