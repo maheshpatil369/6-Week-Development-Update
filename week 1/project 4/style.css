@@ -8,7 +8,7 @@
     --twitter-color: #50b7f5;
     --twitter-background: #e6ecf0;
   }
-  
+
   .sidebarOption {
     display: flex;
     align-items: center;
@@ -25,6 +25,7 @@
     font-size: 20px;
     margin-right: 20px;
   }
+  
   
   .sidebarOption:hover {
     background-color: var(--twitter-background);
