@@ -1,1 +1,1 @@
-Question 2 :- Create a page with two images and a button. When the button is clicked, change the text of a paragraph element.
+Question 1 :- Create a page with two images and a button. When the button is clicked, change the text of a paragraph element.
