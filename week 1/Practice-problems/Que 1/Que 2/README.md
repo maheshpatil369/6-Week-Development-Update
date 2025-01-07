@@ -1,1 +1,1 @@
-Question 1 :- Create an HTML page with a button. When the button is clicked, change the text of a paragraph element
+Question 2 :- Create an HTML page with a button. When the button is clicked, change the text of a paragraph element
