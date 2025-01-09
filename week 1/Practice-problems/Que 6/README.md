@@ -1,0 +1,1 @@
+Question :- Create a tabbed interface where clicking on tab dislays different content sections without page reload.
