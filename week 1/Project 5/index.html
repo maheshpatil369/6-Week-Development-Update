@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
+    <title>Calculator with Animation</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,19 +49,32 @@
             background: #007bff;
             color: white;
             cursor: pointer;
-            transition: background 0.3s;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .button:hover {
+            background: #0056b3;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
         }
 
         .button:active {
-            background: #0056b3;
+            background: #003f7f;
+            transform: translateY(0);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
         .button.clear {
             background: #dc3545;
         }
 
-        .button.clear:active {
+        .button.clear:hover {
             background: #a71d2a;
+        }
+
+        .button.clear:active {
+            background: #73121b;
         }
     </style>
 </head>
