@@ -1,0 +1,1 @@
+Question 8:- Create a search bar that displays live search results results as users type, updating the results without requiring a full page reload.
