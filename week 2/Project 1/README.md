@@ -37,5 +37,4 @@ This is my first animation website created using **GSAP (GreenSock Animation Pla
 
 ---
 
-Feel free to share your feedback or suggestions for improvement! 😊
 
