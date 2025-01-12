@@ -30,4 +30,4 @@ Check out the live version of the project here:
 If you'd like to run this project locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/live-clock-website.git
+   git clone https://github.com/maheshpatil369/dynamic-clock.git
