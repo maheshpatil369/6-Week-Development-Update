@@ -98,8 +98,15 @@ html,body{
     height: 100%;
     width: 100%;
     background-color: red;
+     object-fit: cover;
 }
+
 #bottom h1{
     color: white;
+}
+
+#bottom img{
+    height: 100%;
+    width: 100%;
 }
 
