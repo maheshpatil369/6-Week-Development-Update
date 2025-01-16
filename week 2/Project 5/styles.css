@@ -1,0 +1,58 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .intro {
+    background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+    color: white;
+    font-size: 2rem;
+  }
+  
+  .pinned-section {
+    background: #ffe0b2;
+    color: #bf360c;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .pinned-section .scene {
+    width: 50%;
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  
+  .parallax-section {
+    position: relative;
+    overflow: hidden;
+    background: #b3e5fc;
+    color: #01579b;
+  }
+  
+  .parallax-section .parallax-image {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120%;
+    height: auto;
+    z-index: -1;
+  }
+  
+  .final-section {
+    background: linear-gradient(to top, #c8e6c9, #a5d6a7);
+    color: #1b5e20;
+    font-size: 2rem;
+  }
+  
