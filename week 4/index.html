@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+</head>
+<body>
+    <h1 class="bg-sky-400/50">Enter your email</h1>
+    <input type="email"
+     id="emailInput"
+     placeholder="Enter your email">
+     
+     
+     <div class="output" id="emailOutput">
+        Your email will appear here...
+     </div>
+
+
+    <script>const emailInput = document.getElementById('emailInput');
+
+        const emailOutput = document.getElementById('emailOutput');
+        
+        emailInput.addEventListener('input', function () {
+            emailOutput.textContent = emailInput.value;
+        });</script>
+</body>
+</html>
